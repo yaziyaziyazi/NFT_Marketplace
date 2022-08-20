@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/static/css/main.618bec84.chunk.css",
+    "main.js": "/static/js/main.236bb3e7.chunk.js",
+    "main.js.map": "/static/js/main.236bb3e7.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.7545a8a1.js",
+    "runtime-main.js.map": "/static/js/runtime-main.7545a8a1.js.map",
+    "static/js/2.d35c4913.chunk.js": "/static/js/2.d35c4913.chunk.js",
+    "static/js/2.d35c4913.chunk.js.map": "/static/js/2.d35c4913.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.618bec84.chunk.css.map": "/static/css/main.618bec84.chunk.css.map",
+    "static/js/2.d35c4913.chunk.js.LICENSE.txt": "/static/js/2.d35c4913.chunk.js.LICENSE.txt",
+    "static/media/Logo.be3a4bbe.svg": "/static/media/Logo.be3a4bbe.svg",
+    "static/media/Sparse-Ahmed-Mostafa-vetarans-2.27ce75fb.jpg": "/static/media/Sparse-Ahmed-Mostafa-vetarans-2.27ce75fb.jpg",
+    "static/media/alan-linssen-alanlinssen-kitbashkitrender2.3c69ee1c.jpg": "/static/media/alan-linssen-alanlinssen-kitbashkitrender2.3c69ee1c.jpg",
+    "static/media/ashline-sketch-brushes-3-2.3136fdbd.jpg": "/static/media/ashline-sketch-brushes-3-2.3136fdbd.jpg",
+    "static/media/daniel-taylor-black-and-white-2019-2.51d6d6bc.jpg": "/static/media/daniel-taylor-black-and-white-2019-2.51d6d6bc.jpg",
+    "static/media/ethereum_logo.c729bd46.svg": "/static/media/ethereum_logo.c729bd46.svg",
+    "static/media/galerie.74cf8117.svg": "/static/media/galerie.74cf8117.svg",
+    "static/media/luzhan-liu-1-1500.0ca90f06.jpg": "/static/media/luzhan-liu-1-1500.0ca90f06.jpg",
+    "static/media/phuongvp-maybe-i-m-dreaming-by-pvpgk-deggyli.258b0cdc.jpg": "/static/media/phuongvp-maybe-i-m-dreaming-by-pvpgk-deggyli.258b0cdc.jpg",
+    "static/media/rentao_-22-10-.0e905a1f.jpg": "/static/media/rentao_-22-10-.0e905a1f.jpg",
+    "static/media/suresh-pydikondala-lion.ebe7069f.jpg": "/static/media/suresh-pydikondala-lion.ebe7069f.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7545a8a1.js",
+    "static/js/2.d35c4913.chunk.js",
+    "static/css/main.618bec84.chunk.css",
+    "static/js/main.236bb3e7.chunk.js"
+  ]
+}
